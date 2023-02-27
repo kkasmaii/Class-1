@@ -19,8 +19,8 @@
 
 > **BS, Biology and Interdisciplinary Studies**; Florida International University (Miami)
 
-> > _Minor: Chemistry_
-> > _GPA: 3.78_
+> > _Minor: Chemistry_\
+_GPA: 3.78_
 
 ## Experience
 
