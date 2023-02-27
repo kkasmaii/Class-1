@@ -2,7 +2,8 @@
 
 ------------------------------------------------------------------------
 
-> [kkasmaii\@uark.edu](mailto:kkasmaii@uark.edu){.email} • 305 505 2287 Fayetteville, USA
+> [kkasmaii\@uark.edu](mailto:kkasmaii@uark.edu){.email} • 305 
+505 2287 • Fayetteville, USA
 
 ------------------------------------------------------------------------
 
@@ -18,7 +19,8 @@
 
 > **BS, Biology and Interdisciplinary Studies**; Florida International University (Miami)
 
-> > _Minor: Chemistry_/ _GPA: 3.78_
+> > _Minor: Chemistry_
+> > _GPA: 3.78_
 
 ## Experience
 
