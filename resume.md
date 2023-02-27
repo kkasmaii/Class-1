@@ -8,17 +8,17 @@
 
 ## Education
 
-2021-present
+2021-Present
 
-:   **PhD, Biology**; University of Arkansas (Fayetteville)
+> **PhD, Biology**; University of Arkansas (Fayetteville)
 
-    *GPA: 3.56*
+> > _GPA: 3.56_
 
 2016-2019
 
-:   **BS, Biology and Interdisciplinary Studies**; Florida International University (Miami)
+> **BS, Biology and Interdisciplinary Studies**; Florida International University (Miami)
 
-    *Minor: Chemistry* *GPA: 3.78*
+> > _Minor: Chemistry_/ _GPA: 3.78_
 
 ## Experience
 
