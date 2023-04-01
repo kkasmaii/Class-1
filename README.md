@@ -1,7 +1,9 @@
 # Class-1
 
-I submitted the CV assignment
+Files
 
-I submitted Assignment 3
+1. Assignment 2 = CV assignment
+2. Assignment 3 = Genome (blast)
+3. Assignment 4 = write_pinnacle_slurm.py
+4. Assignment 5 = Edited write_pinnacle_slurm.py (python)
 
-Added write_pinnacle_slurm.py
