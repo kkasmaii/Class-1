@@ -12,9 +12,9 @@ g = open(args.gff, 'r')
 for line in g:
 	line = line.rstrip("\n")
 	split = line.split("\t")
-	length = int(split[4]) - int(split[3])
-	length += 1
+	len = int(split[4]) - int(split[3])
+	len += 1
 	print(split[2], str(len))
 
-print('done!')
+print('great!')
 
